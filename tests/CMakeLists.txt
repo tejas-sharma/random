@@ -1,0 +1,2 @@
+add_unit_test(random_utils_tests random_utils_tests.cpp)
+target_link_libraries(random_utils_tests random_utils)
